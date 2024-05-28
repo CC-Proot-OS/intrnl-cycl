@@ -1,0 +1,6 @@
+[package]
+    type="lib"
+    loc = "/sys/modules"
+    addr="https://raw.githubusercontent.com/CC-Proot-OS/proot-os/master/sys/modins.lua"
+    ver=1
+    depends=["prootsys.colors","prootsys.colours","prootsys.disk","prootsys.fs","prootsys.gps","prootsys.help","prootsys.http","prootsys.io","prootsys.keys","prootsys.paintutils","prootsys.parallel","prootsys.peripheral","prootsys.rednet","prootsys.settings","prootsys.term","prootsys.textutils","prootsys.vector","prootsys.window",]

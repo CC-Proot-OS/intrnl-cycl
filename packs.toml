@@ -1,0 +1,57 @@
+[colors]
+location = "local"
+
+[colours]
+location = "local"
+
+[disk]
+location = "local"
+
+[fs]
+location = "local"
+
+[gps]
+location = "local"
+
+[help]
+location = "local"
+
+[http]
+location = "local"
+
+[io]
+location = "local"
+
+[keys]
+location = "local"
+
+[paintutils]
+location = "local"
+
+[parallel]
+location = "local"
+
+[peripheral]
+location = "local"
+
+[rednet]
+location = "local"
+
+[settings]
+location = "local"
+
+[term]
+location = "local"
+
+[textutils]
+location = "local"
+
+[vector]
+location = "local"
+
+[window]
+location = "local"
+
+[main]
+location = "local"
+
